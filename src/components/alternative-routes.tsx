@@ -1,6 +1,6 @@
 import { Card, CardContent } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import type { RouteData } from '@/app/page';
+import type { RouteData } from '@/app/dashboard/page';
 
 interface AlternativeRoutesProps {
   routes: RouteData[];

@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import type { RouteData, Incident } from '@/app/page';
+import type { RouteData, Incident } from '@/app/dashboard/page';
 import { MapPin, XCircle, AlertTriangle, Construction } from 'lucide-react';
 
 interface MapDisplayProps {
